@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../yt-js-task-list-2021-main/yt-js-task-list-2021-main"
+		},
+		{
+			"path": "../yt-js-task-list-2021-main/stopwatch"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stopwatch"
+	}
+}
